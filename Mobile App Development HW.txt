@@ -1,0 +1,2 @@
+1.design a simple counter application with two buttons one edit text and one text feild
+2.Create a simple registration form with 5 no of text feild and 5 no of edit text component
